@@ -108,7 +108,5 @@ Install my-project with npm
 
 
 
-## Project Demo
 
-https://drive.google.com/file/d/1cyjEPCs9lGxRDqjyDqTdaKjv8wOdJGyX/view?usp=sharing
 
